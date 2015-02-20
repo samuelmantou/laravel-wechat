@@ -1,12 +1,12 @@
 {
-    "name": "atan/wechat",
+    "name": "samuelmantou/wechat",
     "keywords": ["laravel", "weixin", "wechat"],
     "license": "MIT",
     "description": "Wechat SDK for Laravel 4",
     "authors": [
         {
-            "name": "atan",
-            "email": "tanshiqi@gmail.com"
+            "name": "samuelmantou",
+            "email": "samuelmantou@gmail.com"
         }
     ],
     "require": {
